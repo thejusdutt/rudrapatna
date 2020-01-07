@@ -24,7 +24,7 @@ cases:
 GPIO.setmode(GPIO.BOARD)
 
 #pin numbers (physical pins)
-os1=12#saraswati(sa)
+os1=13#saraswati(sa)
 os2=16#purandara(ri)
 os3=18#vadiraja(ga)
 os4=22#kanakadasa(ma)
